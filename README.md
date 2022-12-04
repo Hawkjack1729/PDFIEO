@@ -1,5 +1,5 @@
 # PDFIEO
-<h3 align="center">A tool to play video and preview PDF at same place.Now one can view lecture notes and video at the same time at a same place.</h3>
+<h3 align="left">A tool to play video and preview PDF at same place.Now one can view lecture notes and video at the same time at a same place.</h3>
 <h2>How to use.</h2>
 <ol>
 <li>Fork my repository to your git/local machine.</li>
