@@ -6,7 +6,9 @@
 <li>Open index.html in your browser</li>
 </ol>
 <h3>Alternate meathod</h3>
-<a href="#">Click this link</a>
+<a href="https://638c3d31611d9d4b4011440c--elaborate-mandazi-c88433.netlify.app/">Click this link</a>
+<p>OR</p>
+<a href="https://hawkjack1729.github.io/PDFIEO/">Click this link</a>
 <h2>Badges</h2>
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/hawkjack1729/PDFIEO?style=plastic" style="display:inline-block;">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hawkjack1729/PDFIEO?style=plastic">
